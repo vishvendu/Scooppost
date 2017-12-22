@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Scoop post</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="section">
+        <item>home</item>
+        <item>arts</item>
+        <item>automobiles</item>
+        <item>books</item>
+        <item>business</item>
+        <item>fashion</item>
+        <item>health</item>
+        <item>insider</item>
+
+        <item>magazine</item>
+        <item>movies</item>
+        <item>national</item>
+        <item>nyregion</item>
+        <item>opinion</item>
+        <item>politics</item>
+        <item>realestate</item>
+        <item>science</item>
+
+        <item>sports</item>
+        <item>sundayreview</item>
+        <item>technology</item>
+        <item>tmagazine</item>
+        <item>travel</item>
+        <item>upshot</item>
+        <item>world</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
